@@ -16,7 +16,7 @@ This project is organized into two main modules:
 - Update item quantity in the cart
 - Place an order from the cart
 
-### Admin / Store Management (optional / if implemented)
+### Admin / Store Management
 
 - Add new products
 - Update existing products
